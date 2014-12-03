@@ -1,0 +1,60 @@
+html {
+    width:auto;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#intro {
+    background-image: url(nate_header.jpg);
+    height:730px;
+}
+#intro div div div {
+    margin-top: 20%;
+    margin-left: 40%;
+    color:#C0C0C0 ;
+    width: 50%;
+}
+#experience {
+height:auto;
+padding-top:50px;
+padding-bottom:50px}
+
+#hobbies {
+    background-image: url(KingfisherHighline.jpg);
+    height:700px;
+}
+
+#hobbies div div div {
+    margin-right:50%;
+    margin-left:10%;
+    position:absolute;
+    width:40%
+}
+
+#contact {
+    height:auto;
+    padding: 40px;
+}
+a {
+    color:#707070 ;
+}
+
+a:hover {
+    color:black;
+    text-decoration: none;
+}
+#princeton:hover {
+    color: darkorange;
+}
+
+#cajal:hover {
+    color: darkred;
+}
+
+#coloradocollege:hover {
+    color: #FCD116;
+}
+
+address {
+    align:'right';
+}
